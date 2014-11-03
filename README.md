@@ -1,9 +1,9 @@
-monolith-locator
+# monolith-locator
 ================
 
 A geolocation plugin for [Monolith](https://github.com/bigspring/monolith)
 
-# Objectives
+## Objectives
 
 - [ ] CPT for locations / stores
 - [ ] Custom taxonomy for categorising locations (optional via plugin options)
