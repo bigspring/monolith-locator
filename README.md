@@ -1,5 +1,4 @@
 # monolith-locator
-================
 
 A geolocation plugin for [Monolith](https://github.com/bigspring/monolith)
 
