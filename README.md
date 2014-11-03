@@ -1,8 +1,13 @@
 # Monolith Locator
 
-A geolocation / branch locator plugin for [Monolith](https://github.com/bigspring/monolith)
+A branch locator plugin for [Monolith](https://github.com/bigspring/monolith)
 
-## Objectives
+## Current objectives
 
 - [ ] CPT for locations / stores
 - [ ] Custom taxonomy for categorising locations (optional via plugin options)
+- [ ] Main locator page allowing locations to be shown on map, alongside a list for a given address (via Google Maps)
+- [ ] Single views for locations
+
+### To be done later
+- [ ] Optional geo-location showing locations based on current location
