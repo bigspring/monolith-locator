@@ -10,4 +10,4 @@ A branch locator plugin for [Monolith](https://github.com/bigspring/monolith)
 - [ ] Single views for locations
 
 ### To be done later
-- [ ] Optional geo-location showing locations based on current location
+- [x] Optional geo-location showing locations based on current location
