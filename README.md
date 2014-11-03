@@ -1,6 +1,6 @@
-# monolith-locator
+# Monolith Locator
 
-A geolocation plugin for [Monolith](https://github.com/bigspring/monolith)
+A geolocation / branch locator plugin for [Monolith](https://github.com/bigspring/monolith)
 
 ## Objectives
 
